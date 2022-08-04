@@ -1,10 +1,10 @@
 {
   "compilerOptions": {
-    "target": "es5",
+    "target": "es2017",
     "lib": [
       "dom",
       "dom.iterable",
-      "esnext"
+      "es2017.object"
     ],
     "allowJs": true,
     "skipLibCheck": true,
@@ -18,9 +18,9 @@
     "resolveJsonModule": true,
     "isolatedModules": true,
     "noEmit": true,
-    "jsx": "react-jsx"
+    "jsx": "react"
   },
   "include": [
-    "src"
+    "src/**/*.ts"
   ]
 }
