@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/Boomerang/static/js/main.020cb8fa.js",
+    "static/media/phoneIMG.PNG": "/Boomerang/static/media/phoneIMG.63fad8c258ff52fda3b0.PNG",
+    "static/media/curve.png": "/Boomerang/static/media/curve.3e94348b08f37f7d372c.png",
+    "static/media/facebook.png": "/Boomerang/static/media/facebook.01a470d813915c298403.png",
+    "static/media/image2.PNG": "/Boomerang/static/media/image2.2d6bd5eedc08f512e753.PNG",
+    "static/media/image1.PNG": "/Boomerang/static/media/image1.82b434264c8af9f9cb31.PNG",
+    "static/media/image3.PNG": "/Boomerang/static/media/image3.68ca3075d0157750bfe8.PNG",
+    "static/media/bigLogo.PNG": "/Boomerang/static/media/bigLogo.108946c4cb8ac0a189b1.PNG",
+    "index.html": "/Boomerang/index.html",
+    "main.020cb8fa.js.map": "/Boomerang/static/js/main.020cb8fa.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.020cb8fa.js"
+  ]
+}
